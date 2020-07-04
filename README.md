@@ -1,2 +1,2 @@
 # task4mlops
-Face Recognization using Transfer Learning
+Facial Recognization using Transfer Learning
